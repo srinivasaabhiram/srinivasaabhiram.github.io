@@ -1,0 +1,512 @@
+ .u-section-1 {
+  background-image: url("images/Wormhole-Video-cover-1720x968.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Comfortaa;
+  font-weight: 700;
+  font-size: 3rem;
+  width: 687px;
+  margin: 24px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 3rem;
+  padding: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Comfortaa;
+  font-size: 2.25rem;
+  margin: 393px 97px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 50vw;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 856px;
+    margin-top: 171px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 756px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+    margin-top: 165px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 808px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+    margin-top: 139px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 841px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 24px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1.375rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 228px;
+  }
+}.u-block-5154-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-5154-5 {
+  position: absolute;
+  left: 0;
+  width: 65px;
+  height: 65px;
+  right: auto;
+}
+
+.u-block-5154-6 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: auto;
+  right: 0;
+}
+
+ .u-section-2-1 {
+  background-image: none;
+}
+
+.u-section-2-1 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-2-1 .u-text-1 {
+  font-family: "Gideon Roman";
+  font-size: 3rem;
+  width: 223px;
+  margin: 0 auto;
+}
+
+.u-section-2-1 .u-image-1 {
+  width: 570px;
+  height: 570px;
+  margin: -2px 24px 0 auto;
+}
+
+.u-section-2-1 .u-text-2 {
+  font-size: 1.875rem;
+  line-height: 2;
+  font-family: Comfortaa;
+  font-weight: normal;
+  margin: -429px 618px 60px 32px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: 366px;
+  }
+
+  .u-section-2-1 .u-image-1 {
+    width: 427px;
+    height: 427px;
+    margin-top: 14px;
+    margin-right: 12px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: auto;
+    margin-top: -333px;
+    margin-right: 450px;
+    margin-left: 11px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 600px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    margin-left: 299px;
+    margin-right: 299px;
+  }
+
+  .u-section-2-1 .u-image-1 {
+    width: 334px;
+    height: 334px;
+    margin-top: 195px;
+    margin-right: 26px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    margin-top: -421px;
+    margin-right: 415px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-1 .u-text-1 {
+    margin-top: 60px;
+    margin-left: 209px;
+    margin-right: 209px;
+  }
+
+  .u-section-2-1 .u-image-1 {
+    margin-top: 15px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    margin-top: -241px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 732px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    width: 340px;
+    margin-left: 109px;
+    margin-right: 109px;
+  }
+
+  .u-section-2-1 .u-image-1 {
+    width: 307px;
+    height: 307px;
+    margin-top: 75px;
+    margin-right: auto;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    margin-top: -274px;
+    margin-right: -11px;
+    margin-left: 11px;
+  }
+}
+
+ .u-section-2-2 {
+  background-image: none;
+}
+
+.u-section-2-2 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-2-2 .u-text-1 {
+  font-family: "Gideon Roman";
+  font-size: 3rem;
+  width: 301px;
+  margin: 0 auto;
+}
+
+.u-section-2-2 .u-text-2 {
+  font-family: Comfortaa;
+  font-size: 1.875rem;
+  width: 827px;
+  margin: 137px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-2 .u-text-1 {
+    font-size: 3.75rem;
+    width: 512px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    font-size: 2.25rem;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 600px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 544px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 629px;
+  }
+
+  .u-section-2-2 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    width: 340px;
+  }
+}
+
+ .u-section-2-3 {
+  background-image: none;
+}
+
+.u-section-2-3 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-2-3 .u-text-1 {
+  font-family: "Gideon Roman";
+  font-size: 3rem;
+  width: 590px;
+  margin: 0 auto;
+}
+
+.u-section-2-3 .u-text-2 {
+  font-family: Comfortaa;
+  font-size: 3rem;
+  width: 827px;
+  margin: 128px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-3 .u-text-1 {
+    font-size: 3.75rem;
+    width: auto;
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2-3 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-3 .u-text-1 {
+    margin-top: 60px;
+  }
+
+  .u-section-2-3 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-3 .u-text-2 {
+    width: 340px;
+  }
+}.u-block-badd-2 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-block-badd-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-badd-4 {
+  position: absolute;
+  right: 0;
+}
+
+.u-section-3-1 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-3-1 .u-text-1 {
+  font-family: "Gideon Roman";
+  font-size: 6rem;
+  margin: 97px auto 0;
+}
+
+.u-section-3-1 .u-text-2 {
+  font-family: "Gideon Roman";
+  margin: 66px auto 0;
+}
+
+.u-section-3-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 120px auto 0;
+}
+
+.u-section-3-1 .u-text-3 {
+  font-family: "Gideon Roman";
+  margin: 30px auto 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-3-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
+
+.u-section-3-2 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-3-2 .u-text-1 {
+  font-family: "Gideon Roman";
+  font-size: 6rem;
+  margin: 97px auto 0;
+}
+
+.u-section-3-2 .u-text-2 {
+  font-family: "Gideon Roman";
+  margin: 66px auto 0;
+}
+
+.u-section-3-2 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 120px auto 0;
+}
+
+.u-section-3-2 .u-text-3 {
+  font-family: "Gideon Roman";
+  margin: 30px auto 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-3-2 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
+
+.u-section-3-3 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-3-3 .u-text-1 {
+  font-family: "Gideon Roman";
+  font-size: 6rem;
+  margin: 97px auto 0;
+}
+
+.u-section-3-3 .u-text-2 {
+  font-family: "Gideon Roman";
+  margin: 66px auto 0;
+}
+
+.u-section-3-3 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 120px auto 0;
+}
+
+.u-section-3-3 .u-text-3 {
+  font-family: "Gideon Roman";
+  margin: 30px auto 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-3-3 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-4 .u-text-1 {
+  font-family: "Gideon Roman";
+  font-size: 6rem;
+  margin: 97px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-family: "Gideon Roman";
+  margin: 66px auto 0;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 120px auto 0;
+}
+
+.u-section-4 .u-text-3 {
+  font-family: "Gideon Roman";
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
